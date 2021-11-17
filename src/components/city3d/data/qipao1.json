@@ -1,0 +1,46 @@
+[
+  {
+    "name": "北京恒泰实达",
+    "longitude": 116.1864964,
+    "latitude": 40.0702513,
+    "unit_price": 71469.4,
+    "count": 2
+  },
+
+  {
+    "name": "北京分公司",
+    "longitude": 116.4373176,
+    "latitude": 39.86543812,
+    "unit_price": 71469.4,
+    "count": 2
+  },
+
+  {
+    "name": "成都分公司",
+    "longitude": 104.0539843,
+    "latitude": 30.58830977,
+    "unit_price": 55218.4,
+    "count": 2
+  },
+  {
+    "name": "广州分公司",
+    "longitude": 113.4236578,
+    "latitude": 23.16702248,
+    "unit_price": 63028.1,
+    "count": 2
+  },
+  {
+    "name": "辽宁分公司",
+    "longitude": 123.4603162,
+    "latitude": 41.72372454,
+    "unit_price": 55129.4,
+    "count": 2
+  },
+  {
+    "name": "上海分公司",
+    "longitude": 121.5941695,
+    "latitude": 31.21236808,
+    "unit_price": 56944.2,
+    "count": 3
+  }
+]
