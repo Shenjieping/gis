@@ -65,6 +65,7 @@ export default {
 
   methods: {
     setL7 (custom, data, cb) {
+      console.log('........===...');
       this.imageMarkerClick = cb;
       const styleType = custom.styleType.value;
       const styleUrl = custom.styleUrl.value;

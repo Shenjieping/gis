@@ -6,6 +6,12 @@
       </router-link> |
       <router-link to="/about">
         About
+      </router-link> |
+      <router-link to="/marker">
+        Marker
+      </router-link> |
+      <router-link to="/mapBox">
+        mapBox
       </router-link>
     </div>
     <router-view />
